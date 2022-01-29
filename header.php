@@ -73,86 +73,126 @@
             <div class="aside-menu-wrapper">
                 <div class="side-menu scroll-menu">
                     <ul class="menu-nav">
-                        <li class="side-menu-item ">
-                            <a href="index.php">
-                                <span class="menu-icon"><i class="fa fa-tachometer-alt"></i></span>
-                                <span class="menu-title">Dashboard</span>
-                            </a>
 
-                        </li>
-                        <li class="side-menu-item">
-                            <a href="sertifikat.php">
-                                <span class="menu-icon"><i class="fas fa-certificate"></i></span>
-                                <span class="menu-title">Sertifikat</span>
-                            </a>
-                        </li>
                         <li class="side-menu-item coll-level-1">
                             <a href="#" class="menu-collaps">
-                                <span class="menu-icon"><i class="fa fa-donate"></i></span>
-                                <span class="menu-title">SAS - PA</span>
-                            </a>
-                            <ul class="submenu-menu-item">
-                                <li class="side-menu-item">
-                                    <a href="penilaian-sas.php">
-                                        <span class="menu-icon-child"><i class="fa fa-donate"></i></span>
-                                        <span class="menu-title">Penilian SAS - PA</span>
-                                    </a>
-                                </li>
-                                <li class="side-menu-item">
-                                    <a href="#">
-                                        <span class="menu-icon-child"><i class="fa fa-donate"></i></span>
-                                        <span>Hasil SAS - PA</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="side-menu-item coll-level-1">
-                            <a href="#" class="menu-collaps">
-                                <span class="menu-icon"><i class="fas fa-book-reader"></i></span>
-                                <span class="menu-title">Visitasi</span>
+                                <span class="menu-icon"><i class="fa fa-edit"></i></span>
+                                <span class="menu-title">Auditor</span>
                             </a>
                             <ul class="submenu-menu-item">
                                 <li class="side-menu-item ">
-                                    <a href="penilaian-individu.php">
-                                        <span class="menu-icon-child"><i class="fa fa-book-reader"></i></span>
-                                        <span class="menu-title">Penilaian Individu</span>
+                                    <a href="index.php">
+                                        <span class="menu-icon-child"><i class="fa fa-tachometer-alt"></i></span>
+                                        <span class="menu-title">Dashboard</span>
                                     </a>
+
                                 </li>
                                 <li class="side-menu-item">
-                                    <a href="javascript:void(0)">
-                                        <span class="menu-icon-child"><i class="fas fa-book-reader"></i></span>
-                                        <span>Hasil Visitasi</span>
+                                    <a href="sertifikat.php">
+                                        <span class="menu-icon-child"><i class="fas fa-certificate"></i></span>
+                                        <span class="menu-title">Sertifikat</span>
                                     </a>
+                                </li>
+                                <li class="side-menu-item coll-level-2">
+                                    <a href="#" class="menu-collaps">
+                                        <span class="menu-icon-child"><i class="fa fa-donate"></i></span>
+                                        <span class="menu-title">SAS - PA</span>
+                                    </a>
+                                    <ul class="submenu-menu-item">
+                                        <li class="side-menu-item">
+                                            <a href="penilaian-sas.php">
+                                                <span class="menu-icon-child"><i class="fa fa-donate"></i></span>
+                                                <span>Penilian SAS - PA</span>
+                                            </a>
+                                        </li>
+                                        <li class="side-menu-item">
+                                            <a href="#">
+                                                <span class="menu-icon-child"><i class="fa fa-donate"></i></span>
+                                                <span>Hasil SAS - PA</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="side-menu-item coll-level-2">
+                                    <a href="#" class="menu-collaps">
+                                        <span class="menu-icon-child"><i class="fas fa-book-reader"></i></span>
+                                        <span class="menu-title">Visitasi</span>
+                                    </a>
+                                    <ul class="submenu-menu-item">
+                                        <li class="side-menu-item ">
+                                            <a href="penilaian-individu.php">
+                                                <span class="menu-icon-child"><i class="fa fa-book-reader"></i></span>
+                                                <span class="menu-title">Penilaian Individu</span>
+                                            </a>
+                                        </li>
+                                        <li class="side-menu-item">
+                                            <a href="javascript:void(0)">
+                                                <span class="menu-icon-child"><i class="fas fa-book-reader"></i></span>
+                                                <span>Hasil Visitasi</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="side-menu-item coll-level-2">
+                                    <a href="#" class="menu-collaps">
+                                        <span class="menu-icon-child"><i class="fa fa-user-check"></i></span>
+                                        <span class="menu-title">Validasi</span>
+                                    </a>
+                                    <ul class="submenu-menu-item">
+                                        <li class="side-menu-item">
+                                            <a href="javascript:void(0)">
+                                                <span class="menu-icon-child"><i class="fa fa-user-check"></i></span>
+                                                <span class="menu-title">Penilaian Validasi</span>
+                                            </a>
+                                        </li>
+                                        <li class="side-menu-item">
+                                            <a href="javascript:void(0)">
+                                                <span class="menu-icon-child"><i class="fa fa-user-check"></i></span>
+                                                <span class="menu-title">Hasil Validasi</span>
+                                            </a>
+                                        </li>
+
+                                    </ul>
                                 </li>
                             </ul>
                         </li>
+
                         <li class="side-menu-item coll-level-1">
                             <a href="#" class="menu-collaps">
-                                <span class="menu-icon"><i class="fa fa-user-check"></i></span>
-                                <span class="menu-title">Validasi</span>
+                                <span class="menu-icon"><i class="fa fa-user-friends"></i></span>
+                                <span class="menu-title">Unit</span>
                             </a>
                             <ul class="submenu-menu-item">
-                                <li class="side-menu-item">
-                                    <a href="javascript:void(0)">
-                                        <span class="menu-icon-child"><i class="fa fa-user-check"></i></span>
-                                        <span class="menu-title">Penilaian Validasi</span>
+                                <li class="side-menu-item ">
+                                    <a href="index.php">
+                                        <span class="menu-icon-child"><i class="fa fa-tachometer-alt"></i></span>
+                                        <span class="menu-title">Dashboard</span>
                                     </a>
-                                </li>
-                                <li class="side-menu-item">
-                                    <a href="javascript:void(0)">
-                                        <span class="menu-icon-child"><i class="fa fa-user-check"></i></span>
-                                        <span class="menu-title">Hasil Validasi</span>
-                                    </a>
-                                </li>
 
+                                </li>
+                                <li class="side-menu-item ">
+                                    <a href="informasi-lembaga.php">
+                                        <span class="menu-icon-child"><i class="fas fa-building"></i></span>
+                                        <span class="menu-title">Informasi Lembaga</span>
+                                    </a>
+                                </li>
+                                <li class="side-menu-item ">
+                                    <a href="javascript:void(0)">
+                                        <span class="menu-icon-child"><i class="fas fa-book-reader"></i></span>
+                                        <span class="menu-title">Jadwal Visitasi</span>
+                                    </a>
+                                </li>
+                                <li class="side-menu-item ">
+                                    <a href="javascript:void(0)">
+                                        <span class="menu-icon-child"><i class="fas fa-clipboard"></i></span>
+                                        <span class="menu-title">Self Assesment</span>
+                                    </a>
+                                </li>
                             </ul>
                         </li>
-                        <li class="side-menu-item ">
-                            <a href="informasi-lembaga.php">
-                                <span class="menu-icon"><i class="fas fa-building"></i></span>
-                                <span class="menu-title">Informasi Lembaga</span>
-                            </a>
-                        </li>
+
+
+
                         <li class="side-menu-item ">
                             <a href="marketing1.php">
                                 <span class="menu-icon"><i class="fa fa-mail-bulk"></i></span>
