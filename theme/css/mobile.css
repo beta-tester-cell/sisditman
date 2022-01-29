@@ -206,7 +206,6 @@
 
   .content {
     margin-left: 0;
-    margin-top: 120px;
     width: 100%;
     transition: 0.3s;
   }
@@ -777,7 +776,7 @@
 
   .content {
     margin-left: 0;
-    margin-top: 120px;
+    /* margin-top: 120px; */
     width: 100%;
     transition: 0.3s;
   }
@@ -1393,7 +1392,7 @@
   }
 
   .form-img {
-    left: 28%;
+    left: 20%;
   }
   .grid-detail-list {
     display: grid;

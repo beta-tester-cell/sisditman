@@ -2,7 +2,7 @@
 <div class="content">
     <div class="container">
         <div class="pb-1">
-            <div class="card">
+            <div class="card" style="padding-right: 1.5rem; padding-left:1.5rem;">
                 <div class="card-header d-flex flex-space-between">
                     <h5>Informasi Lembaga</h5>
                     <a href="#" class="btn btn-link btn-secondary">Selanjutnya <i class="fas fa-chevron-right"></i></a>

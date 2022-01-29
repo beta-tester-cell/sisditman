@@ -132,8 +132,8 @@
                                 <span class="menu-title">Validasi</span>
                             </a>
                             <ul class="submenu-menu-item">
-                                <li class="javascript:void(0)">
-                                    <a href="index-akademik-cabang.php">
+                                <li class="side-menu-item">
+                                    <a href="javascript:void(0)">
                                         <span class="menu-icon-child"><i class="fa fa-user-check"></i></span>
                                         <span class="menu-title">Penilaian Validasi</span>
                                     </a>

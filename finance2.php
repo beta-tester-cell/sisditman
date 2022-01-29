@@ -2,7 +2,7 @@
 <div class="content">
     <div class="container">
         <div class="pb-1">
-            <div class="card">
+            <div class="card" style="padding-right: 1.5rem; padding-left:1.5rem;">
                 <div class="card-header d-flex flex-space-between my-0 pb-1">
                     <h6>A. Manajerial Head of Finance Dept</h6>
                     <a href="marketing2.php" class="btn btn-link btn-secondary">Selanjutnya <i class="fas fa-chevron-right"></i></a>

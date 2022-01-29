@@ -2,7 +2,7 @@
 <div class="content" style="height: 77vh;">
     <div class="container">
         <div class="pb-1">
-            <div class="card">
+            <div class="card" style="padding-right: 1.5rem; padding-left:1.5rem;">
                 <div class="card-header">
                     <h5>Daftar Sertifikat</h5>
                 </div>
