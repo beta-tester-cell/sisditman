@@ -164,7 +164,7 @@
                             </a>
                             <ul class="submenu-menu-item">
                                 <li class="side-menu-item ">
-                                    <a href="index.php">
+                                    <a href="#">
                                         <span class="menu-icon-child"><i class="fa fa-tachometer-alt"></i></span>
                                         <span class="menu-title">Dashboard</span>
                                     </a>
